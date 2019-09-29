@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/pixijs-canvas-radar/static/css/main.76ce65dc.chunk.css",
-    "main.js": "/pixijs-canvas-radar/static/js/main.16ff4722.chunk.js",
-    "main.js.map": "/pixijs-canvas-radar/static/js/main.16ff4722.chunk.js.map",
+    "main.js": "/pixijs-canvas-radar/static/js/main.77431cf5.chunk.js",
+    "main.js.map": "/pixijs-canvas-radar/static/js/main.77431cf5.chunk.js.map",
     "runtime-main.js": "/pixijs-canvas-radar/static/js/runtime-main.b87b8b2a.js",
     "runtime-main.js.map": "/pixijs-canvas-radar/static/js/runtime-main.b87b8b2a.js.map",
-    "static/js/2.80c501ad.chunk.js": "/pixijs-canvas-radar/static/js/2.80c501ad.chunk.js",
-    "static/js/2.80c501ad.chunk.js.map": "/pixijs-canvas-radar/static/js/2.80c501ad.chunk.js.map",
+    "static/js/2.d893f08c.chunk.js": "/pixijs-canvas-radar/static/js/2.d893f08c.chunk.js",
+    "static/js/2.d893f08c.chunk.js.map": "/pixijs-canvas-radar/static/js/2.d893f08c.chunk.js.map",
     "83703ffb86df3537e125.worker.js": "/pixijs-canvas-radar/83703ffb86df3537e125.worker.js",
     "83703ffb86df3537e125.worker.js.map": "/pixijs-canvas-radar/83703ffb86df3537e125.worker.js.map",
     "index.html": "/pixijs-canvas-radar/index.html",
-    "precache-manifest.741e23c6c2524de84a6e1d75f2286849.js": "/pixijs-canvas-radar/precache-manifest.741e23c6c2524de84a6e1d75f2286849.js",
+    "precache-manifest.887b338d02860b837365a6be272f20b7.js": "/pixijs-canvas-radar/precache-manifest.887b338d02860b837365a6be272f20b7.js",
     "service-worker.js": "/pixijs-canvas-radar/service-worker.js",
     "static/css/main.76ce65dc.chunk.css.map": "/pixijs-canvas-radar/static/css/main.76ce65dc.chunk.css.map",
     "static/media/head.png": "/pixijs-canvas-radar/static/media/head.fe4096a3.png"

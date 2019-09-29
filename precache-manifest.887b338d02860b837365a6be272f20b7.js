@@ -4,20 +4,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pixijs-canvas-radar/83703ffb86df3537e125.worker.js"
   },
   {
-    "revision": "2a0c3d89a0736dd5aea8ac43000be8ca",
+    "revision": "13b12da27ebef352fae723054e9e9586",
     "url": "/pixijs-canvas-radar/index.html"
   },
   {
-    "revision": "d3855e62821b02d0a683",
+    "revision": "3bb4a16df665caac3361",
     "url": "/pixijs-canvas-radar/static/css/main.76ce65dc.chunk.css"
   },
   {
-    "revision": "760af81ba34e79cbe557",
-    "url": "/pixijs-canvas-radar/static/js/2.80c501ad.chunk.js"
+    "revision": "fd05039d9772c01784f3",
+    "url": "/pixijs-canvas-radar/static/js/2.d893f08c.chunk.js"
   },
   {
-    "revision": "d3855e62821b02d0a683",
-    "url": "/pixijs-canvas-radar/static/js/main.16ff4722.chunk.js"
+    "revision": "3bb4a16df665caac3361",
+    "url": "/pixijs-canvas-radar/static/js/main.77431cf5.chunk.js"
   },
   {
     "revision": "9403509424695eed71c4",

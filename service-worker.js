@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pixijs-canvas-radar/precache-manifest.887b338d02860b837365a6be272f20b7.js"
+  "/pixijs-canvas-radar/precache-manifest.316a6492f10c1a348dd995abc2ee17c9.js"
 );
 
 self.addEventListener('message', (event) => {

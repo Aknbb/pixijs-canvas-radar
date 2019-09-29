@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pixijs-canvas-radar/static/css/main.76ce65dc.chunk.css",
-    "main.js": "/pixijs-canvas-radar/static/js/main.1a9d7fa7.chunk.js",
-    "main.js.map": "/pixijs-canvas-radar/static/js/main.1a9d7fa7.chunk.js.map",
+    "main.js": "/pixijs-canvas-radar/static/js/main.809bf66d.chunk.js",
+    "main.js.map": "/pixijs-canvas-radar/static/js/main.809bf66d.chunk.js.map",
     "runtime-main.js": "/pixijs-canvas-radar/static/js/runtime-main.b87b8b2a.js",
     "runtime-main.js.map": "/pixijs-canvas-radar/static/js/runtime-main.b87b8b2a.js.map",
     "static/js/2.d893f08c.chunk.js": "/pixijs-canvas-radar/static/js/2.d893f08c.chunk.js",
@@ -10,7 +10,7 @@
     "83703ffb86df3537e125.worker.js": "/pixijs-canvas-radar/83703ffb86df3537e125.worker.js",
     "83703ffb86df3537e125.worker.js.map": "/pixijs-canvas-radar/83703ffb86df3537e125.worker.js.map",
     "index.html": "/pixijs-canvas-radar/index.html",
-    "precache-manifest.316a6492f10c1a348dd995abc2ee17c9.js": "/pixijs-canvas-radar/precache-manifest.316a6492f10c1a348dd995abc2ee17c9.js",
+    "precache-manifest.ed54ba8a9b8e6a4ff44f45a3cbe1509b.js": "/pixijs-canvas-radar/precache-manifest.ed54ba8a9b8e6a4ff44f45a3cbe1509b.js",
     "service-worker.js": "/pixijs-canvas-radar/service-worker.js",
     "static/css/main.76ce65dc.chunk.css.map": "/pixijs-canvas-radar/static/css/main.76ce65dc.chunk.css.map",
     "static/media/head.png": "/pixijs-canvas-radar/static/media/head.fe4096a3.png"
